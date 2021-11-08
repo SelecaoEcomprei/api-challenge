@@ -10,7 +10,7 @@ Nós encorajamos você a exagerar um pouco na solução para mostrar do que voc�
 
 Considere um cenário em que você esteja construindo uma aplicação pronta para produção, onde outros desenvolvedores precisarão trabalhar e manter essa aplicação ao longo do tempo.
 
-Você PODE e DEVE usar bibliotecas de terceiros, usando ou não um framework, você decide. Lembre-se, um desenvolvedor eficaz sabe o que construir e o que reutilizar.
+Você pode usar bibliotecas de terceiros, utilizando como premissa o framework Django Rest. Lembre-se, um desenvolvedor eficaz sabe o que construir e o que reutilizar.
 
 Na entrevista de "code review", esteja preparado para responder algumas perguntas sobre essas bibliotecas e, caso utilize, sobre o framework. Como e por que você as escolheu e com quais outras alternativas você está familiarizado, serão algumas dessas perguntas.
 
